@@ -20,6 +20,8 @@ fn routes(app: &mut web::ServiceConfig) {
     app
         .route("/hello", web::get().to(hello::get))
         .route("/greeting/{name}", web::get().to(greet::get))
+        .route("path",web::post().to(hello::get))
         .route("/fibonacci/{input}", web::get().to(fibonacci::get));
+
 }
 

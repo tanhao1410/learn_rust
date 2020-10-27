@@ -5,6 +5,12 @@
       <sourceFolder url="file://$MODULE_DIR$/learn_deref/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leet_code/_202010/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/learn_tcp/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/learn_actix/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hello_world2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day_1026/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/day_1026/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_world2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/learn_actix/target" />
       <excludeFolder url="file://$MODULE_DIR$/learn_deref/target" />
       <excludeFolder url="file://$MODULE_DIR$/learn_tcp/target" />
       <excludeFolder url="file://$MODULE_DIR$/leet_code/target" />
